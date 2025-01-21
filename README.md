@@ -17,27 +17,18 @@ Hi there! Welcome to my GitHub profile. I'm a passionate **Full Stack Developer*
 
 ## 🛠️ **Tech Stack**  
 **Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)  
 
 **Frontend**  
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)  
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)  
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)  ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)  
 
 **Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)  
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)  ![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)  
 
-**Databases**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)  
+**Databases**  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)  
 
 **Tools & Platforms**  
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)  
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)  
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)  
 
 ---
 
