@@ -1,38 +1,50 @@
-Here’s a more vibrant and interactive version of your GitHub profile README with emojis, badges, and dynamic elements:
+Here’s the updated and improved GitHub profile README with all the additional technologies included:
 
 ---
 
 # 👩‍💻 **Usha Phogat**  
 
-Hi there! 👋 Welcome to my GitHub profile. I'm a passionate **Full Stack Developer** with a flair for creating stunning, scalable, and user-friendly web applications. Let's build something awesome together! 🚀  
+Hi there! 👋 Welcome to my GitHub profile. I'm a passionate **Full Stack Developer** with a knack for creating scalable, user-friendly, and efficient applications using the latest tools and technologies. Let's build something amazing together! 🚀  
 
 ---
 
 ## 🌟 **About Me**  
-- 🌱 Currently exploring **Full Stack Development** to master the art of building modern applications.  
-- 💬 Ask me about **JavaScript, React, Node.js, and Python** – I’m always happy to help!  
+- 🌱 Currently mastering **Full Stack Development** and **Cloud Integration**.  
+- 💬 Ask me about **JavaScript, React, Node.js, Python, or anything Full Stack!**  
 - 🌍 Open to contributing to **Open Source Projects** and collaborating on impactful ideas.  
 
 ---
 
-## 💻 **Tech Stack**  
+## 🛠️ **Tech Stack**  
 ### **Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
 ### **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=
+
+for-the-badge&logo=nextdotjs&logoColor=white)  
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)  
 
 ### **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)  
 
 ### **Databases**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### **Hosting & Cloud**  
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
 
 ### **Tools & Platforms**  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
@@ -42,7 +54,7 @@ Hi there! 👋 Welcome to my GitHub profile. I'm a passionate **Full Stack Devel
 ---
 
 ## 🏆 **GitHub Trophies**  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=UshaPhogat66&theme=radical&no-frame=true&row=1&column=6)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ushaphogat66&theme=radical&no-frame=true&row=1&column=6)  
 
 ---
 
@@ -84,5 +96,3 @@ A booking web app with a seamless user experience:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ushaphogat66)  
 
 ---
-
-Let me know if you'd like any further tweaks or additions! 😊
