@@ -1,8 +1,7 @@
-Here’s the updated and improved GitHub profile README with all the additional technologies included:
-
----
-
 # 👩‍💻 **Usha Phogat**  
+
+# Hi there, I'm Usha! 👋
+
 
 Hi there! 👋 Welcome to my GitHub profile. I'm a passionate **Full Stack Developer** with a knack for creating scalable, user-friendly, and efficient applications using the latest tools and technologies. Let's build something amazing together! 🚀  
 
